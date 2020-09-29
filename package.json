@@ -1,6 +1,6 @@
 {
   "name": "@jsonliang/npm_demo",
-  "version": "2.2.3",
+  "version": "2.2.4",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
