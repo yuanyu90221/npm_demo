@@ -1,0 +1,23 @@
+{
+  "name": "@jsonliang/npm_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "this is test npm repository",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuanyu90221/npm_demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuanyu90221/npm_demo/issues"
+  },
+  "homepage": "https://github.com/yuanyu90221/npm_demo#readme",
+  "devDependencies": {}
+}
